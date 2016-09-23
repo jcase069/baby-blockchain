@@ -1,0 +1,19 @@
+{
+  "name": "babyid",
+  "version": "1.0.0",
+  "description": "An OpenID Connect site that provides user authentication for medical portals, and also transfers medical data viewing and control permissions to other users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcase069/baby-blockchain.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcase069/baby-blockchain/issues"
+  },
+  "homepage": "https://github.com/jcase069/baby-blockchain"
+}
